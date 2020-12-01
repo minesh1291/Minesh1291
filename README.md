@@ -41,9 +41,17 @@ Notebooks:
 1. [Bird Sound Identification Using CNN in Keras](https://www.kaggle.com/mineshjethva/making-prediction-with-keras-pre-trained-model?scriptVersionId=39728764)
 1. [Time Series Feature Extraction with seq2seq Autoencoder](https://www.kaggle.com/mineshjethva/timeseries-featureextraction-seq2seq-autoencoder)
 1. [Time Series Forecasting with Graph Convolution](https://www.kaggle.com/mineshjethva/graph-timeseries-forecasting)
+1. [Sleep Sound Monitoring & Snoring Detection](https://www.kaggle.com/mineshjethva/sleep-monitoring-snoring-detection/)
 
 ### NLP & Computer Vision, Etc..
-1. [NLP Text Classification LSTM Conv](https://www.kaggle.com/mineshjethva/nlp-text-classification-lstm-conv?scriptVersionId=39400049)
+1. [NLP Multi Labeled Text Classification LSTM Conv](https://www.kaggle.com/mineshjethva/nlp-text-classification-lstm-conv?scriptVersionId=39400049)
+1. [Fake News Classification using NLP, CNN and XGBoost stack](https://www.kaggle.com/mineshjethva/tomtom-fakenews-v2)
 1. [Recommendation System Using Matrix Factorization](https://www.kaggle.com/mineshjethva/recommendation-system-using-matrix-factorization)
 1. [Image Segmentation Using UNet](https://www.kaggle.com/mineshjethva/image-segmentation-using-unet)
 
+### DevOps 
+1. [Executing Notebook as GCP train job](https://www.kaggle.com/general/196909) 
+
+### Parameters
+1. [Determine number of PCA components](https://www.kaggle.com/mineshjethva/determine-n-pca-components?rvi=1)
+1. [Determine eps for DBSCAN clustering](https://www.kaggle.com/mineshjethva/determine-eps-for-dbscan-clustering?scriptVersionId=48245677)
