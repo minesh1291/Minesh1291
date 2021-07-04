@@ -5,6 +5,7 @@ This is Minesh,
 - 💬 Ask me about ... Data Science, Machine Learning and Deep Learning 
 - 📫 How to reach me: ... write me on [LinkedIn](https://LinkedIn.com/in/mineshjethva) 
 - Myself at Kaggle: ... https://www.kaggle.com/mineshjethva
+- 🧾 Promo: [Machine Leaning Community](http://forum.heroml.org)
 
 <!--
 **minesh1291/Minesh1291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 -->
 
