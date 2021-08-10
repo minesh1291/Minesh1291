@@ -37,13 +37,14 @@ Notebooks:
 
 ### Time Series Domain:
 1.  [Time Series Anomaly Detection Using RNN Autoencoder](https://www.kaggle.com/mineshjethva/timeseries-anomaly-detection-using-rnn-autoencoder)
-1.  [Weather Forecasting with Lasso GridCV](https://www.kaggle.com/mineshjethva/weather-forcasting-lasso-gridcv?scriptVersionId=3567529)
-1. [Time Series Forecasting with LSTM for Univariate & Multivariate](https://www.kaggle.com/mineshjethva/time-series-forecasting-with-lstm-for-uni-multivar)
-1. [Power Grid Stability with Deep Learning](https://www.kaggle.com/mineshjethva/power-grid-stability-with-deep-learning)
-1. [Bird Sound Identification Using CNN in Keras](https://www.kaggle.com/mineshjethva/making-prediction-with-keras-pre-trained-model?scriptVersionId=39728764)
-1. [Time Series Feature Extraction with seq2seq Autoencoder](https://www.kaggle.com/mineshjethva/timeseries-featureextraction-seq2seq-autoencoder)
-1. [Time Series Forecasting with Graph Convolution](https://www.kaggle.com/mineshjethva/graph-timeseries-forecasting)
-1. [Sleep Sound Monitoring & Snoring Detection](https://www.kaggle.com/mineshjethva/sleep-monitoring-snoring-detection/)
+2.  [ECG Classification using WaveNet Blocks](https://www.kaggle.com/mineshjethva/ecg-model)
+3.  [Weather Forecasting with Lasso GridCV](https://www.kaggle.com/mineshjethva/weather-forcasting-lasso-gridcv?scriptVersionId=3567529)
+4. [Time Series Forecasting with LSTM for Univariate & Multivariate](https://www.kaggle.com/mineshjethva/time-series-forecasting-with-lstm-for-uni-multivar)
+5. [Power Grid Stability with Deep Learning](https://www.kaggle.com/mineshjethva/power-grid-stability-with-deep-learning)
+6. [Bird Sound Identification Using CNN in Keras](https://www.kaggle.com/mineshjethva/making-prediction-with-keras-pre-trained-model?scriptVersionId=39728764)
+7. [Time Series Feature Extraction with seq2seq Autoencoder](https://www.kaggle.com/mineshjethva/timeseries-featureextraction-seq2seq-autoencoder)
+8. [Time Series Forecasting with Graph Convolution](https://www.kaggle.com/mineshjethva/graph-timeseries-forecasting)
+9. [Sleep Sound Monitoring & Snoring Detection](https://www.kaggle.com/mineshjethva/sleep-monitoring-snoring-detection/)
 
 ### NLP & Computer Vision, Etc..
 1. [NLP Multi Labeled Text Classification LSTM Conv](https://www.kaggle.com/mineshjethva/nlp-text-classification-lstm-conv?scriptVersionId=39400049)
