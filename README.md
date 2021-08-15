@@ -1,11 +1,17 @@
 ### Hi there 👋
 This is Minesh, 
 
-<table border="0"><tr><td width="50%">
+<!-- table border="0"><tr><td width="100%" -->
   <!-- pre -->
 
 - 🔭 I’m currently working on ... 
-    Time Series Sequence Modeling for IoT sensor monitoring
+    *  Time Series Sequence Modeling for IoT sensor monitoring
+- Previous experiance as ...
+    *  Researcher at [Ben Gurion University](https://in.bgu.ac.il/en/Pages/default.aspx), Israel.
+    *  Co-Founder of [DiSCo - Data Science Community](https://www.bengis.org/disco) at [Ben-Gurion University](https://in.bgu.ac.il/en/pages/default.aspx), Israel 
+    *  Researcher at [International Centre for Genetic Engineering and Biotechnology](http://www.icgeb.org/)
+    *  M.Sc. Computational Biology
+    *  B.Sc. Computational Biology
 
 - 💬 Ask me about ... 
     Data Science, Machine Learning and Deep Learning 
@@ -32,45 +38,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 -->
-</pre>
+
+  <!-- /pre>
   </td>
-<td>
+<!-- td>
 <img src="https://github-readme-stats.vercel.app/api?username=minesh1291&show_icons=true&theme=dark" >
- </td></tr>
-  </table>
+ </td ></tr>
+  </table -->
+  
+<!--
+
 Actively looking for a Data Scientist position. 
 
-*  **Data Scientist** working with sequence modelling for Time-Series
-*  Research Student at [Ben Gurion University](https://in.bgu.ac.il/en/Pages/default.aspx), Israel.
-*  Co-Founder of [DiSCo - Data Science Community](https://www.bengis.org/disco) at Ben-Gurion University 
-*  M.Sc. Bioinformatics
+**Data Scientist** working with sequence modelling for Time-Series
+
+-->
 
 Notebooks:
 
-### Time Series Domain:
-1.  [Time Series Anomaly Detection Using RNN Autoencoder](https://www.kaggle.com/mineshjethva/timeseries-anomaly-detection-using-rnn-autoencoder)
-2.  [ECG Classification using WaveNet Blocks](https://www.kaggle.com/mineshjethva/ecg-model)
-3.  [Weather Forecasting with Lasso GridCV](https://www.kaggle.com/mineshjethva/weather-forcasting-lasso-gridcv?scriptVersionId=3567529)
-4. [Time Series Forecasting with LSTM for Univariate & Multivariate](https://www.kaggle.com/mineshjethva/time-series-forecasting-with-lstm-for-uni-multivar)
-5. [Power Grid Stability with Deep Learning](https://www.kaggle.com/mineshjethva/power-grid-stability-with-deep-learning)
-6. [Bird Sound Identification Using CNN in Keras](https://www.kaggle.com/mineshjethva/making-prediction-with-keras-pre-trained-model?scriptVersionId=39728764)
-7. [Time Series Feature Extraction with seq2seq Autoencoder](https://www.kaggle.com/mineshjethva/timeseries-featureextraction-seq2seq-autoencoder)
-8. [Time Series Forecasting with Graph Convolution](https://www.kaggle.com/mineshjethva/graph-timeseries-forecasting)
-9. [Sleep Sound Monitoring & Snoring Detection](https://www.kaggle.com/mineshjethva/sleep-monitoring-snoring-detection/)
+<table><tr><td width="56%">
+  <strong>Time Series Domain:</strong>
+  <ol>
+<li><a href="https://www.kaggle.com/mineshjethva/timeseries-anomaly-detection-using-rnn-autoencoder" rel="nofollow">Time Series Anomaly Detection Using RNN Autoencoder</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/ecg-model" rel="nofollow">ECG Classification using WaveNet Blocks</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/weather-forcasting-lasso-gridcv?scriptVersionId=3567529" rel="nofollow">Weather Forecasting with Lasso GridCV</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/time-series-forecasting-with-lstm-for-uni-multivar" rel="nofollow">Time Series Forecasting with LSTM for Univariate &amp; Multivariate</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/power-grid-stability-with-deep-learning" rel="nofollow">Power Grid Stability with Deep Learning</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/making-prediction-with-keras-pre-trained-model?scriptVersionId=39728764" rel="nofollow">Bird Sound Identification Using CNN in Keras</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/timeseries-featureextraction-seq2seq-autoencoder" rel="nofollow">Time Series Feature Extraction with seq2seq Autoencoder</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/graph-timeseries-forecasting" rel="nofollow">Time Series Forecasting with Graph Convolution</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/sleep-monitoring-snoring-detection/" rel="nofollow">Sleep Sound Monitoring &amp; Snoring Detection</a></li>
+</ol>
 
-### NLP & Computer Vision, Etc..
-1. [NLP Multi Labeled Text Classification LSTM Conv](https://www.kaggle.com/mineshjethva/nlp-text-classification-lstm-conv?scriptVersionId=39400049)
-1. [Fake News Classification using NLP, CNN and XGBoost stack](https://www.kaggle.com/mineshjethva/tomtom-fakenews-v2)
-1. [Recommendation System Using Matrix Factorization](https://www.kaggle.com/mineshjethva/recommendation-system-using-matrix-factorization)
-1. [Image Segmentation Using UNet](https://www.kaggle.com/mineshjethva/image-segmentation-using-unet)
+  <td>
+  <strong> NLP & Computer Vision, Etc.. </strong>
+    <ol>
+<li><a href="https://www.kaggle.com/mineshjethva/nlp-text-classification-lstm-conv?scriptVersionId=39400049" rel="nofollow">NLP Multi Labeled Text Classification LSTM Conv</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/tomtom-fakenews-v2" rel="nofollow">Fake News Classification using NLP, CNN and XGBoost stack</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/recommendation-system-using-matrix-factorization" rel="nofollow">Recommendation System Using Matrix Factorization</a></li>
+<li><a href="https://www.kaggle.com/mineshjethva/image-segmentation-using-unet" rel="nofollow">Image Segmentation Using UNet</a></li>
+</ol>
+    <tr><td colspan=1>
 
 ### DevOps 
 1. [Executing Notebook as GCP train job](https://www.kaggle.com/general/196909) 
-
-### Parameters
+</td>
+      <td colspan=1>
+  
+### Parameter Optimization
 1. [Determine number of PCA components](https://www.kaggle.com/mineshjethva/determine-n-pca-components?rvi=1)
 1. [Determine eps for DBSCAN clustering](https://www.kaggle.com/mineshjethva/determine-eps-for-dbscan-clustering?scriptVersionId=48245677)
-
+</td></tr>
+      <tr>
+      <tr><td colspan=2>
 <img src="https://github.com/minesh1291/Minesh1291/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
