@@ -58,3 +58,5 @@ Notebooks:
 ### Parameters
 1. [Determine number of PCA components](https://www.kaggle.com/mineshjethva/determine-n-pca-components?rvi=1)
 1. [Determine eps for DBSCAN clustering](https://www.kaggle.com/mineshjethva/determine-eps-for-dbscan-clustering?scriptVersionId=48245677)
+
+<img src="https://github.com/minesh1291/Minesh1291/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
