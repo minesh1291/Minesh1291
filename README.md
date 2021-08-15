@@ -1,10 +1,21 @@
 ### Hi there 👋
 This is Minesh, 
 
-- 🔭 I’m currently working on ... Time Series Sequence Modeling for IoT sensor monitoring and audio modeling
-- 💬 Ask me about ... Data Science, Machine Learning and Deep Learning 
-- 📫 How to reach me: ... write me on [LinkedIn](https://LinkedIn.com/in/mineshjethva) 
-- Myself at Kaggle: ... https://www.kaggle.com/mineshjethva
+<table border="0"><tr><td width="50%">
+  <!-- pre -->
+
+- 🔭 I’m currently working on ... 
+    Time Series Sequence Modeling for IoT sensor monitoring
+
+- 💬 Ask me about ... 
+    Data Science, Machine Learning and Deep Learning 
+
+- 📫 How to reach me: ... 
+    write me on </pre> <a href="https://LinkedIn.com/in/mineshjethva">LinkedIn</a> 
+
+- My Data Science profile: ... 
+    <a href="https://www.kaggle.com/mineshjethva">Kaggle</a>
+
 - 🧾 Promo: [Machine Learning Community](http://forum.heroml.org)
 
 <!--
@@ -23,9 +34,12 @@ Here are some ideas to get you started:
 
 
 -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=minesh1291&show_icons=true&theme=dark" width=300>
-
+</pre>
+  </td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=minesh1291&show_icons=true&theme=dark" >
+ </td></tr>
+  </table>
 Actively looking for a Data Scientist position. 
 
 *  **Data Scientist** working with sequence modelling for Time-Series
