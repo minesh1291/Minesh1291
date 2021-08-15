@@ -72,6 +72,11 @@ Notebooks:
 </ol>
 
   <td>
+<img src="https://user-images.githubusercontent.com/6646693/129485595-7d132169-74ea-47ad-9a16-849144ec2af9.gif" width="70%">
+<img src="https://user-images.githubusercontent.com/6646693/129487538-92b3708a-5d07-44f1-b0f2-22734f450bfb.gif" width="70%">
+
+  <tr>
+  <td colspan=2>
   <strong> NLP & Computer Vision, Etc.. </strong>
     <ol>
 <li><a href="https://www.kaggle.com/mineshjethva/nlp-text-classification-lstm-conv?scriptVersionId=39400049" rel="nofollow">NLP Multi Labeled Text Classification LSTM Conv</a></li>
