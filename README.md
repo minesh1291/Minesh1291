@@ -80,8 +80,8 @@ Notebooks:
     </tr>
     <tr>
         <td colspan=1>
-            <strong> NLP & Computer Vision, Etc.. </strong>
-            <ol>
+          <strong> NLP & Computer Vision, Etc.. </strong>
+          <ol>
                 <li><a href="https://www.kaggle.com/mineshjethva/nlp-text-classification-lstm-conv?scriptVersionId=39400049" rel="nofollow">NLP Multi Labeled Text Classification LSTM Conv</a></li>
                 <li><a href="https://www.kaggle.com/mineshjethva/tomtom-fakenews-v2" rel="nofollow">Fake News Classification using NLP, CNN and XGBoost stack</a></li>
                 <li><a href="https://www.kaggle.com/mineshjethva/recommendation-system-using-matrix-factorization" rel="nofollow">Recommendation System Using Matrix Factorization</a></li>
@@ -97,16 +97,21 @@ Notebooks:
         </td>    
     </tr>
     <tr>
-        <td colspan=1>
-        ### DevOps 
-        1. [Executing Notebook as GCP train job](https://www.kaggle.com/general/196909) 
-        </td>
-      <td colspan=1>
-  
-### Parameter Optimization
+<td colspan=1>
+<strong>  DevOps </strong>
+<ol>
+  <li><a href="https://www.kaggle.com/general/196909">Executing Notebook as GCP train job</a>
+<img src="https://user-images.githubusercontent.com/6646693/135630007-aef53893-cd20-41d2-a2d6-aaa4f29ca138.png" width="70%">
+</li>
+  </ol>
+</td>
+<td colspan=1>
+
+<strong>  Parameter Optimization </strong> 
 1. [Determine number of PCA components](https://www.kaggle.com/mineshjethva/determine-n-pca-components?rvi=1)
 1. [Determine eps for DBSCAN clustering](https://www.kaggle.com/mineshjethva/determine-eps-for-dbscan-clustering?scriptVersionId=48245677)
-</td></tr>
+</td>
+  </tr>
       <tr>
       <tr><td colspan=2>
 <img src="https://github.com/minesh1291/Minesh1291/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
