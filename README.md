@@ -91,6 +91,16 @@ Notebooks:
             <img src="https://user-images.githubusercontent.com/6646693/135624408-b613b201-4d6a-4c20-811f-a59791422066.gif" width="70%">
         </td>
     </tr>
+  <tr>
+        <td colspan=1>
+          <strong> Reinforcement Learning & Optimization, Etc.. </strong>
+          <ol>
+            <li> Halite-3 (2018) </li>
+          </ol>
+        <td>
+            <img src="https://github.com/minesh1291/minesh1291.github.io/raw/master/_images/halite-in-action.gif" width="70%">
+        </td>
+    </tr>
     <tr>
         <td colspan=2>
             <img src="https://user-images.githubusercontent.com/6646693/135627334-5857e252-af05-40fc-a995-0622f1bc468f.png" width="70%">
