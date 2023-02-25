@@ -93,7 +93,7 @@ Notebooks:
     </tr>
   <tr>
         <td colspan=1>
-          <strong> Reinforcement Learning & Optimization, Etc.. </strong>
+          <strong> Reinforcement Learning, Operation Research, Optimal Control, Etc.. </strong>
           <ol>
             <li> Halite-3 (2018) </li>
           </ol>
