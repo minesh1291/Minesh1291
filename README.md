@@ -95,10 +95,21 @@ Notebooks:
         <td colspan=1>
           <strong> Reinforcement Learning, Operation Research, Optimal Control, Etc.. </strong>
           <ol>
-            <li> Halite-3 (2018) </li>
+            <li> <a href="https://twitter.com/haliteai?lang=en" rel="nofollow"> Halite-3 (2018) </a></li>
           </ol>
         <td>
             <img src="https://github.com/minesh1291/minesh1291.github.io/raw/master/_images/halite-in-action.gif" width="70%">
+        </td>
+    </tr>
+  
+  <tr>
+        <td colspan=1>
+          <strong> Search Engine and Knowledge Management </strong>
+          <ol>
+            <li> <a href="https://minesh1291.github.io/KGraph/" rel="nofollow"> Topic Graph </a></li>
+          </ol>
+        <td>
+            <img src="https://raw.githubusercontent.com/minesh1291/KGraph/main/images/Screenshot%20from%202022-01-19%2011-07-40.png" style="object-fit: cover" width="70%">
         </td>
     </tr>
     <tr>
