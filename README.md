@@ -14,7 +14,11 @@ This is Minesh,
     *  B.Sc. Computational Biology
 
 - 💬 Ask me about ... 
-    Data Science, Machine Learning and Deep Learning 
+    * Data Science, Machine Learning, Deep Learning 
+    * Signal Processing, Computer Vision, NLP
+    * Anomaly Detection, Data Augmentation, Data Distillation, Model Distillation
+    * Recommendation System, Supply Chain, Predictive Maintenance, Dynamic Pricing
+    * Quant Research, Agile Data Science, Knowledge Managment and Retrieval
 
 - 📫 How to reach me: ... 
     write me on </pre> <a href="https://LinkedIn.com/in/mineshjethva">LinkedIn</a> 
