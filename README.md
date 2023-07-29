@@ -3,7 +3,7 @@ This is Minesh,
 
 <!-- table border="0"><tr><td width="100%" -->
   <!-- pre -->
-
+ 
 - 🔭 I’m currently working on ... 
     *  Time Series Sequence Modeling for IoT sensor monitoring
 - Previous experiance as ...
