@@ -21,9 +21,7 @@ This is Minesh,
     * Quant Research, Agile Data Science, Knowledge Managment and Retrieval
 
 - 📫 How to reach me: ... 
-    write me on </pre> <a href="https://LinkedIn.com/in/mineshjethva">LinkedIn</a>
-
-<a href="https://www.codementor.io/@mineshjethva?refer=badge"><img src="https://github.com/minesh1291/Minesh1291/assets/6646693/15d2514a-3806-41ec-94eb-0a74a4ceaa13" alt="Codementor badge"></a>
+    write me on <a href="https://LinkedIn.com/in/mineshjethva">LinkedIn</a>, <a href="https://www.codementor.io/@mineshjethva?refer=badge"> Codementor </a>
 
 - My Data Science profile: ... 
     <a href="https://www.kaggle.com/mineshjethva">Kaggle</a>
