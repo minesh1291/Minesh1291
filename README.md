@@ -59,6 +59,9 @@ Actively looking for a Data Scientist position.
 
 -->
 
+Web Pages:
+- [Advancements in Time Series Analysis](http://profile.mindmeldwithminesh.com/Advancements-in-Time-Series-Analysis/)
+
 Notebooks:
 
 <table>
